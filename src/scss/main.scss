@@ -1,0 +1,6 @@
+// Imports from src directory
+@import "base/variables";
+@import "base/typography";
+
+// Imports from module folders (Paths are expanded within Gulp task)
+@import "<Modules>";
